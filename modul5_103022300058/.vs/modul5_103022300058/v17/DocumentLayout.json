@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{84FEF986-5B1D-46D8-8D2B-4F336EF9E57C}|modul5_103022300058\\modul5_103022300058.csproj|d:\\mod5\\modul5_103022300058\\modul5_103022300058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FEF986-5B1D-46D8-8D2B-4F336EF9E57C}|modul5_103022300058\\modul5_103022300058.csproj|solutionrelative:modul5_103022300058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FEF986-5B1D-46D8-8D2B-4F336EF9E57C}|modul5_103022300058\\modul5_103022300058.csproj|d:\\mod5\\modul5_103022300058\\modul5_103022300058\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FEF986-5B1D-46D8-8D2B-4F336EF9E57C}|modul5_103022300058\\modul5_103022300058.csproj|solutionrelative:modul5_103022300058\\pemrosesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PemrosesData.cs",
+              "DocumentMoniker": "D:\\mod5\\modul5_103022300058\\modul5_103022300058\\PemrosesData.cs",
+              "RelativeDocumentMoniker": "modul5_103022300058\\PemrosesData.cs",
+              "ToolTip": "D:\\mod5\\modul5_103022300058\\modul5_103022300058\\PemrosesData.cs",
+              "RelativeToolTip": "modul5_103022300058\\PemrosesData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:02:53.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +41,7 @@
               "RelativeDocumentMoniker": "modul5_103022300058\\Program.cs",
               "ToolTip": "D:\\mod5\\modul5_103022300058\\modul5_103022300058\\Program.cs",
               "RelativeToolTip": "modul5_103022300058\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T23:43:32.214Z",
               "EditorCaption": ""
